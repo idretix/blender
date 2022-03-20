@@ -1,0 +1,13 @@
+# Blender 3.1.0 MTL File: 'wildwest.blend'
+# www.blender.org
+
+newmtl woodidk
+Ns 106.753822
+Ka 1.000000 1.000000 1.000000
+Kd 0.176199 0.052144 0.004761
+Ks 0.414062 0.414062 0.414062
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd wood.jpg
