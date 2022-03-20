@@ -1,0 +1,24 @@
+# Blender 3.1.0 MTL File: 'wildwest.blend'
+# www.blender.org
+
+newmtl Aluminium'.001
+Ns 106.753822
+Ka 1.000000 1.000000 1.000000
+Kd 0.176199 0.052144 0.004761
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd aluminium.jpg
+
+newmtl woodidk.001
+Ns 101.709671
+Ka 1.000000 1.000000 1.000000
+Kd 0.176199 0.052144 0.004761
+Ks 0.179688 0.179688 0.179688
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd wood.jpg
